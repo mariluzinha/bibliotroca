@@ -7,3 +7,5 @@ Olá! Me chamo André e esse é um site criado por mim como um projeto de estudo
 Sou programador front-end, e o projeto foi desenvolvido com o framework Reactjs
 
 Espero que tenha gostado, até mais :D
+
+testeee
